@@ -5,24 +5,27 @@ Adjustable packet size and number of threads,
 Simple user interface via command line,
 Fallback to manually input the target IP when DNS resolution fails.
 
-Clone the repository:
 
-Copy this commands
+### How It Will Appear:
 
-'''bash
+---
 
+### Clone the repository:
+
+To get started, clone the repository by running the following command:
+
+```bash
 git clone https://github.com/CySpyMaiden/CySpyDosTool.git
-
-'''bash
-
+```
+```bash
 cd CySpyDosTool
+```
+For Run the tool:
 
-Run the tool:
-
-'''bash
+```bash
 
 python3 dostool.py
-
+```
 Enter the target IP/URL, port, packet size, and number of threads when prompted.
 
 
