@@ -1,8 +1,8 @@
 Features:
 
-Customizable target IP/URL and port.
-Adjustable packet size and number of threads.
-Simple user interface via command line.
+Customizable target IP/URL and port,
+Adjustable packet size and number of threads,
+Simple user interface via command line,
 Fallback to manually input the target IP when DNS resolution fails.
 
 Clone the repository:
