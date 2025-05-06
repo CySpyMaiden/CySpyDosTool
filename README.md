@@ -1,12 +1,14 @@
-Features:
+### 🔥 Features:
 
-Customizable target IP/URL and port,
-Adjustable packet size and number of threads,
-Simple user interface via command line,
-Fallback to manually input the target IP when DNS resolution fails.
-
-
-### How It Will Appear:
+- 🎯 **Customizable Target**: Set your **IP/URL** and **port** to hit the right target! 🌐💻
+  
+- 📦 **Adjustable Packet Size**: Fine-tune your packet size to maximize the attack! 🛠️
+  
+- ⚡️ **Threads Control**: Choose the **number of threads** for ultimate performance! 💥
+  
+- 🖥️ **User-Friendly CLI**: Simple and sleek command-line interface for smooth operation. 💻🔧
+  
+- 🔄 **Fallback Mechanism**: If DNS resolution fails, **manually input** the target IP for flexibility. 💡
 
 ---
 
