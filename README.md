@@ -8,14 +8,14 @@ Fallback to manually input the target IP when DNS resolution fails.
 Clone the repository:
 
 Copy this commands
-
-1> git clone https://github.com/CySpyMaiden/CySpyDosTool.git
-
-2> cd CySpyDosTool
+'''bash
+git clone https://github.com/CySpyMaiden/CySpyDosTool.git
+'''bash
+cd CySpyDosTool
 
 Run the tool:
-
-3> python3 dostool.py
+'''bash
+python3 dostool.py
 
 Enter the target IP/URL, port, packet size, and number of threads when prompted.
 
