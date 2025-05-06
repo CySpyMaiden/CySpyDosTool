@@ -29,6 +29,10 @@ python3 dostool.py
 Enter the target IP/URL, port, packet size, and number of threads when prompted.
 
 
-Disclaimer:
+⚠️ Disclaimer:
+🚨 This tool is for educational purposes only. 🚨
 
-This tool is for educational purposes only. Do not use it to launch unauthorized attacks on any server or network. Unauthorized DoS attacks are illegal and unethical.
+⚠️ Do not use it to launch unauthorized attacks on any server or network. ⚠️
+💻 Unauthorized DoS attacks are illegal and unethical. ⚖️
+
+Stay ethical and always respect others' systems! 🛡️
