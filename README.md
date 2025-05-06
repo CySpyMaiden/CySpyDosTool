@@ -30,9 +30,11 @@ Enter the target IP/URL, port, packet size, and number of threads when prompted.
 
 
 ⚠️ Disclaimer:
+
 🚨 This tool is for educational purposes only. 🚨
 
 ⚠️ Do not use it to launch unauthorized attacks on any server or network. ⚠️
+
 💻 Unauthorized DoS attacks are illegal and unethical. ⚖️
 
 Stay ethical and always respect others' systems! 🛡️
